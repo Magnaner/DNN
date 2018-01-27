@@ -3,7 +3,7 @@
 Created on Mon Sep 11 15:52:25 2017
 
 @author: Eric Magnan
-This is the main code to build DNN. My_DNN_Run.py is used to define DNN layers, train and test it on different data sources.
+This is the main code to build DNN. "My DNN Run.py" is to be used to define DNN layers, train and test it on different data sources.
 """
 ###########################
 #####    L O A D      #####
