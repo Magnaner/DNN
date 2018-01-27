@@ -3,6 +3,10 @@
 Created on Wed Sep 20 11:48:46 2017
 
 @author: Éric Magnan (ericmagnan.ca)
+Use this python code to create your own DNN: define layers, activations functions (deep and final), hyperparameters
+Use it as well to train and test your DNN on different data sources: points (scikit circles, moons, blobs or biclusters), cat images, 
+CIFAR images, etc.
+Main DNN code is in My_DNN_final.py
 """
 from My_loaders import *
 import matplotlib.pyplot as plt
