@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Magnaner/DNN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello world! I'm here!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I leverage past AI experience to learn new data science techniques, advanced algorithms, machine learning, deep learning and "bots" for fun. Still passionate after over 20 years!
 
-### Markdown
+This repo contains code inspired from my first 3 Coursera online courses with **Deeplearning.ai from Andrew Ng**, professor at Sanford University. It provides all the basic ingredients of a fully connected Deep Neural Network **(DNN)** built _**from scratch**_. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main code can be run from the _Run_My_DNN.py_ file. It is set-up by default for a binary classification neural net (yes/no, red/blue, 1/0) using a sigmoid activation at the last (output) layer. Softmax can be used instead, but I have not yet made it so you can specify the output layer for "n" classes (one-hot vectors).
 
-```markdown
-Syntax highlighted code block
+I h some might find this code usefull, somehow.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Magnaner/DNN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Good reading!
+EM.
