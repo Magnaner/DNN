@@ -1,4 +1,4 @@
-## Welcome to My GitHub Pages
+## Welcome to My GitHub DNN Page
 
 Hello world! I'm here!
 
