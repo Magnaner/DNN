@@ -11,4 +11,5 @@ The main code can be run from the _Run_My_DNN.py_ file. It is set-up by default 
 I h some might find this code usefull, somehow.
 
 Good reading!
-EM.
+
+Eric M.
